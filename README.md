@@ -1,5 +1,3 @@
-# ArathiS.Devtern-task3
-
 Heart Disease Prediction
 
 Overview
