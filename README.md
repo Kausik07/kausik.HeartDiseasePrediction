@@ -27,7 +27,6 @@ Clone the repository:
 bash
 Copy code
 
-git clone https://github.com/ArathiS1/ArathiS.Devtern-task3.git
 
 Navigate to the project directory:
 
